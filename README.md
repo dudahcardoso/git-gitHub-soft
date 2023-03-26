@@ -1,0 +1,1 @@
+<!--extensão é uma extensão chamada de Markdown-->
